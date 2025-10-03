@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/models/m-117bcfc91b7e47f3ab48d35ef8fe19fc/artifacts
+creation_timestamp: 1759481071172
+experiment_id: '843770225581935832'
+last_updated_timestamp: 1759481082466
+model_id: m-117bcfc91b7e47f3ab48d35ef8fe19fc
+model_type: null
+name: model
+source_run_id: dbfb055f539a4c5e9b402d23de045226
+status: 2
+status_message: null

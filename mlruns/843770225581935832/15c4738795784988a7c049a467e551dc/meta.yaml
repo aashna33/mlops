@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/15c4738795784988a7c049a467e551dc/artifacts
+end_time: 1759481148690
+entry_point_name: ''
+experiment_id: '843770225581935832'
+lifecycle_stage: active
+run_id: 15c4738795784988a7c049a467e551dc
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759481137896
+status: 3
+tags: []
+user_id: nadee

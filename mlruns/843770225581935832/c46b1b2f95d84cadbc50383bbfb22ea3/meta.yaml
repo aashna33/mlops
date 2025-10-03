@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/c46b1b2f95d84cadbc50383bbfb22ea3/artifacts
+end_time: 1759481137868
+entry_point_name: ''
+experiment_id: '843770225581935832'
+lifecycle_stage: active
+run_id: c46b1b2f95d84cadbc50383bbfb22ea3
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759481125679
+status: 3
+tags: []
+user_id: nadee

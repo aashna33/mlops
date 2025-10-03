@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/a9376a64e3204d9db45a85e7cf6ed604/artifacts
+end_time: 1759481090657
+entry_point_name: ''
+experiment_id: '843770225581935832'
+lifecycle_stage: active
+run_id: a9376a64e3204d9db45a85e7cf6ed604
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759481082513
+status: 3
+tags: []
+user_id: nadee

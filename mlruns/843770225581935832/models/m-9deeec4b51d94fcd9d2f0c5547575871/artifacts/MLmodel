@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/models/m-9deeec4b51d94fcd9d2f0c5547575871/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.4
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.4.0
+model_id: m-9deeec4b51d94fcd9d2f0c5547575871
+model_size_bytes: 137636
+model_uuid: m-9deeec4b51d94fcd9d2f0c5547575871
+prompts: null
+run_id: 15c4738795784988a7c049a467e551dc
+utc_time_created: '2025-10-03 08:45:38.162765'

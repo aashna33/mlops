@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/591c9b4648164804b7913ddec5d952b7/artifacts
+end_time: 1759481117254
+entry_point_name: ''
+experiment_id: '843770225581935832'
+lifecycle_stage: active
+run_id: 591c9b4648164804b7913ddec5d952b7
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759481109868
+status: 3
+tags: []
+user_id: nadee

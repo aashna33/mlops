@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/nadee/Desktop/pract_mlops/mlruns/843770225581935832/models/m-117bcfc91b7e47f3ab48d35ef8fe19fc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-117bcfc91b7e47f3ab48d35ef8fe19fc
+model_size_bytes: 792
+model_uuid: m-117bcfc91b7e47f3ab48d35ef8fe19fc
+prompts: null
+run_id: dbfb055f539a4c5e9b402d23de045226
+utc_time_created: '2025-10-03 08:44:31.251746'
